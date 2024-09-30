@@ -1,6 +1,4 @@
-kusalkrp: create a readme file to this project. use python 3.11 for python environment creation
 
-GitHub Copilot: Sure, here's a README.md file for your project. It includes instructions for setting up a Python 3.11 environment.
 
 ```markdown
 # Project Title
