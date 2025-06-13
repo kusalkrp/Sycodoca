@@ -89,10 +89,6 @@ Add additional notes about how to deploy this on a live system.
 
 * [Python](https://www.python.org/) - The programming language used.
 
-## Authors
-
-* **Your Name** - *Initial work* - [YourGithubUsername](https://github.com/YourGithubUsername)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
