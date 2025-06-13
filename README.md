@@ -77,13 +77,6 @@ streamlit run .\streamlit.py
 
 Now, open up localhost in your browser.
 
-## Running the tests
-
-Explain how to run the automated tests for this system.
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system.
 
 ## Built With
 
